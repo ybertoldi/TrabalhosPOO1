@@ -2,7 +2,7 @@ package trabalhosPOO.ATT1.A01.lista1;
 
 import util.Leitor;
 
-public class Ex3 {
+public class Ex03 {
 	public static void main(String[] args) {
 		Leitor l = new Leitor();
 		int n1 = l.leNum("nota 1:");

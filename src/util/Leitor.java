@@ -14,16 +14,14 @@ public class Leitor {
 		return sc.nextInt();
 	}
 	
-	public int leNum() {
-		return sc.nextInt();
-	}
-	
-	public String leString() {
-		return sc.nextLine();
-	}
 	public String leString(String txt) {
 		System.out.println(txt);
 		return sc.nextLine();
+	}
+	
+	public double leDouble(String txt) {
+		System.out.println(txt);
+		return sc.nextDouble();
 	}
 	
 }
