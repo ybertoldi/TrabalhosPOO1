@@ -1,5 +1,4 @@
 package trabalhosPOO.ATT1.A02.lista05;
-
 import util.Leitor;
 
 public class Ex05 {
